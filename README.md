@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Obaid ur Rehman  
+# 👋 Hi, I'm Ubaid ur Rehman  
 💻 Full-Stack Developer | 🚀 GenAI Explorer | 🌐 Future Solution Architect  
 
 I’m passionate about building **scalable backend & frontend systems** and integrating **Generative AI** into real-world applications.  
@@ -53,8 +53,8 @@ Remember: Certifications alone don’t matter, but when paired with hands-on pra
 ---
 
 ## 📫 Let’s Connect
-- 🌐 [LinkedIn](https://www.linkedin.com/in/obaidtechguy/)  
-- 📧 Reach me at: obaid.techguy@gmail.com  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/ubaid-dev/)  
+- 📧 Reach me at: dev.ubaidurrehmankhan@gmail.com  
 - 🔗 Explore my repositories below and feel free to collaborate, guide me, or start a conversation!  
 
 ---
