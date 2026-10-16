@@ -4,7 +4,7 @@
 I’m passionate about building **scalable backend** and integrating **Generative AI** into real-world applications.  
 
 
-Currently Started exploring Machine Learning related concepts. 
+Currently have aim to ace Calude Certified Architect - Foundations by November (2026). 
 
 
 ---
@@ -16,7 +16,7 @@ Currently Started exploring Machine Learning related concepts.
 - **Databases**: PostgreSQL (pgVector), MySQL, MongoDB, Supabase, Firebase
 - **DevOps & Cloud**: Docker, GitHub Actions, AWS (EC2, ECS, S3, Cognito, RDS and other services), NGINX, etc.   
 - **AI Toolkit**: OpenAI API, Amazon Bedrock, Langchain, Langraph, RAG, Agentic AI, Faiss
-- **AI Pair Programming**: Claude Code
+- **AI Pair Programming**: Claude Code (Codex, Cursor)
 - **Other Tools**: Git, Jira, Trello, Notion  
 
 ---
